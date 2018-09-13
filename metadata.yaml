@@ -1,5 +1,5 @@
 _repo: La-chanson-des-vieux-epoux_51313
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Somm, Henry
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1907
     gutenberg_agent_id: '46354'
     url: http://www.gutenberg.org/2009/agents/46354
+covers:
+- cover_type: archival
+  image_path: 51313-h/images/cover.jpg
 creator:
   author:
     agent_name: Loti, Pierre
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/853
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51313#La-chanson-des-vieux-epoux
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-02-27'
 gutenberg_type: Text
