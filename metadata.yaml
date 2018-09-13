@@ -1,0 +1,45 @@
+_repo: La-chanson-des-vieux-epoux_51313
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Somm, Henry
+    aliases:
+    - Somm, Henri
+    - Sommier, François Clément
+    - Somm, Francois Clement Sommier
+    - Somm, François Clément Sommier
+    birthdate: 1844
+    deathdate: 1907
+    gutenberg_agent_id: '46354'
+    url: http://www.gutenberg.org/2009/agents/46354
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51313'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death -- Fiction'
+- !lcsh 'Japan -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Beggars -- Fiction'
+- !lcsh 'Older people -- Fiction'
+- GITenberg
+title: La chanson des vieux époux
+url: http://www.gutenberg.org/ebooks/51313
